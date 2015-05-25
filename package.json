@@ -1,0 +1,26 @@
+{
+  "name": "a-http-server-component",
+  "version": "0.0.0",
+  "main": "lib/main",
+  "description": "A Http Server Component",
+  "keywords": [
+    "a",
+    "http",
+    "server",
+    "component"
+  ],
+  "dependencies": {
+    "a-http-server-router": ""
+  },
+  "devDependencies": {},
+  "author": "João Afonso Martins",
+  "license": "MIT",
+  "homepage": "https://github.com/joaoafrmartins/a-http-server-component",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaoafrmartins/a-http-server-component.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joaoafrmartins/a-http-server-component/issues"
+  }
+}
